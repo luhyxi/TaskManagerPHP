@@ -1,0 +1,18 @@
+{
+    "name": "luana/task-manager",
+    "description": "Simple stuff",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Luana\\TaskManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luana",
+            "email": "luhyxi@gmail.com"
+        }
+    ],
+    "require": {}
+}
